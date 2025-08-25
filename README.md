@@ -1,0 +1,1 @@
+**Hey! The goal of this project is to create a machine learning model that can accurately determine where a soccer ball is moving along with the players it is moving between given amateur-quality video.**
